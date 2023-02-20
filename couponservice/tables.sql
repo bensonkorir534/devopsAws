@@ -1,3 +1,4 @@
+--tables
 use mydb;
 
 create table product(
